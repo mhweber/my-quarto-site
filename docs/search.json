@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Test Quarto Site",
+    "section": "",
+    "text": "This is a Quarto website built in Positron.\n\nprint('this is R code')\n\n[1] \"this is R code\"\n\n\n\nA list\n\nitem1\nitem2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site."
+  }
+]
